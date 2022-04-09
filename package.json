@@ -15,7 +15,7 @@
     "axios": "^0.18.0",
     "core-js": "^2.6.5",
     "js-cookie": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vue-toast-notification": "0.0.2",
